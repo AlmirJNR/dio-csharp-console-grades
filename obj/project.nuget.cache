@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1cyMlHlO5MhpI7Th6OEAiM8N6NPqq3vag33ZLxnSdq0iHriM97r4s1SH/Gx0Ezsompm8Uil+YwI4zT3l+k0TQ==",
+  "success": true,
+  "projectFilePath": "/home/almirafjr/Development/Bootcamp_TechUnimedBH_Fullstack/Module_6/ConsoleTest/ConsoleTest.csproj",
+  "expectedPackageFiles": [
+    "/home/almirafjr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
